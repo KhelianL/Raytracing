@@ -1,5 +1,8 @@
 # Projet Raytracing par Khélian LARVET
 
+# RENDER
+![alt text](https://github.com/KhelianL/Raytracing/blob/main/myRenders/CornellBox - 1000 x1000 - 100sample - 5shadow.png?raw=true)
+
 # EXECUTION
 - Makefile produit un executable ./main ;
 - Commande rapide pour compiler et executer : make clean ; make && ./main ;
