@@ -1,7 +1,7 @@
 # Projet Raytracing par Khélian LARVET
 
 # RENDER
-![alt text](https://github.com/KhelianL/Raytracing/blob/main/myRenders/CornellBox - 1000 x1000 - 100sample - 5shadow.png?raw=true)
+![alt text](https://github.com/KhelianL/Raytracing/blob/main/CornellBox_[1000x1000]_[100samples]_[5shadows].png?raw=true)
 
 # EXECUTION
 - Makefile produit un executable ./main ;
