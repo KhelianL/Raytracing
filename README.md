@@ -1,7 +1,10 @@
 # Projet Raytracing par Khélian LARVET
 
-# RENDER
-![alt text](https://github.com/KhelianL/Raytracing/blob/main/CornellBox_[1000x1000]_[100samples]_[5shadows].png?raw=true)
+# RENDERS
+
+<img src="https://github.com/KhelianL/Raytracing/blob/main/myRenders/CornellBox_[1000x1000]_[100samples]_[5shadows].png" width="500" height="500">  |  <img src="https://github.com/KhelianL/Raytracing/blob/main/myRenders/DoubleLight_[1000x1000]_[100samples]_[10shadows].png" width="500" height="500">
+:-------------------------:|:-------------------------:
+<img src="https://github.com/KhelianL/Raytracing/blob/main/myRenders/InfiniteBox_[1000x1000]_[100samples]_[10shadows]_[10bounces].png" width="500" height="500">  |  <img src="https://github.com/KhelianL/Raytracing/blob/main/myRenders/InfiniteBox_[1000x1000]_[100samples]_[10shadows]_[50bounces].png" width="500" height="500">
 
 # EXECUTION
 - Makefile produit un executable ./main ;
