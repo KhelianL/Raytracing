@@ -16,7 +16,7 @@ Le render s'exécute à l'appuie de la touche "r" (attention majuscule) et le r�
 <> Phase 3.2    : Reflexion / Refraction
 
 # COMMANDES
-'r' : render
-'q' : quit
-'w' : polygon mode
-'+' : next scene
+- 'r' : render
+- 'q' : quit
+- 'w' : polygon mode
+- '+' : next scene
